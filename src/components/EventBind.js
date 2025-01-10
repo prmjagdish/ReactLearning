@@ -1,3 +1,5 @@
+// Binding Event Handlers
+
 import React, { Component } from 'react'
 
 class EventBind extends Component {

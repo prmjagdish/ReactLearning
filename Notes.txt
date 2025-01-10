@@ -12,3 +12,14 @@ const add = (a, b) => a + b;
 
 
 this keyword
+
+methods as props in component child to paraent methods --> child component and parent component 
+
+conditional reandering 
+
+if - else not vaild in jsx
+element variables 
+ternary condition operator
+Short circuit operator
+
+List Reandering
